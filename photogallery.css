@@ -1,0 +1,17 @@
+img
+{
+	height: 424px;
+    width: 29%;
+    margin:1.66%;
+     box-shadow: 5px 10px 8px #888888;
+}
+h1
+{
+	margin: 1.66%;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 1.66%;
+    padding-bottom: 20px;
+}
+}
